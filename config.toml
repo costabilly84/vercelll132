@@ -1,0 +1,4 @@
+baseURL = "https://invitationcardchuxit.vercel.app"
+languageCode = "en-us"
+title = "Template and Party Invitation"
+theme = "tale-hugo-master"
